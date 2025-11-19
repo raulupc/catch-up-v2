@@ -7,6 +7,7 @@ MySql.EntityFrameworkCore 9.0.9
 
 structure: 
 
+´´´
 pc2u202319415.API/
 ├─ src/
 │  ├─ Subscriptions/                      <- Bounded Context: subscriptions
@@ -62,7 +63,7 @@ pc2u202319415.API/
 │                 └─ UnitOfWork.cs
 ├─ appsettings.json
 └─ Program.cs
-
+´´´
 
 
 upc-pre202502-1ASI0730-7414-pc2-u202319415.zip
