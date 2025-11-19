@@ -1,9 +1,13 @@
 INSTALL
 
 swashbuckle.aspnetcore 9.0.6 ,
+
 Microsoft.EntityFrameworkCore 9.0.10(blue) ,
+
 Microsoft.EntityFrameworkCore.Tools 9.0.10 ,
+
 MySql.EntityFrameworkCore 9.0.9
+
 
 structure: 
 
